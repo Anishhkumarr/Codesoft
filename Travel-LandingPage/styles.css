@@ -385,28 +385,12 @@ nav {
   .discover__card:nth-child(2) {
     transform: translateY(0);
   }
-
-  .blogs__grid {
-    grid-template-columns: repeat(1, 1fr);
-  }
-
-  .journals__grid {
-    grid-template-columns: repeat(1, 1fr);
-  }
-
-  .hero__container p {
-    font-size: 6rem;
-  }
-
+  
   .gallery__grid {
     grid-template-columns: repeat(2, 1fr);
   }
 
   .contact__container {
     grid-template-columns: repeat(1, 1fr);
-  }
-
-  .contact__col:first-child {
-    grid-area: unset;
   }
 }

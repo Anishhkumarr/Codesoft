@@ -81,11 +81,6 @@ a {
   text-decoration: none;
 }
 
-.anchors > .frd-slash {
-  color: rgb(2, 201, 28);
-  font-weight: 700;
-}
-
 .anchors:hover {
   border: 1px solid #fff;
   border-radius: 5px;
@@ -105,8 +100,6 @@ a {
 
 h2,
 h3,
-h5,
-h6,
 hr {
   padding: 0;
   margin: 0;
@@ -144,16 +137,6 @@ p {
   line-height: 2em;
 }
 
-.lang {
-  display: inline-flex;
-}
-
-.discription {
-  align-items: flex-start;
-  margin-left: 25px;
-  text-align: left;
-}
-
 hr {
   width: 24px;
   display: inline-block;
@@ -169,39 +152,8 @@ hr {
   font-size: 1.3rem;
 }
 
-.who {
-  color: black;
-  margin: 10px auto 20px auto;
-}
-
 h5 {
   display: inline;
-}
-
-.color {
-  color: rgb(97, 110, 99);
-}
-
-.languages {
-  margin-top: 13px;
-  max-width: 750px;
-  display: grid;
-  grid-template-columns: 220px 220px 220px;
-  margin: auto;
-}
-
-h6 {
-  padding: 5px;
-}
-
-.elements {
-  padding: 0.5rem;
-}
-
-.lang-icons {
-  width: 2rem;
-  margin: 0;
-  padding: 0;
 }
 
 /* Skill section */
@@ -256,24 +208,10 @@ h6 {
   padding-top: 100px;
 }
 
-.project-header {
-  width: 200px;
-  height: 50px;
-  margin: auto;
-}
-.pro-head {
-  display: inline-block;
-  margin-right: 5px;
-}
-
 .proj-section {
   margin-top: 5rem;
   margin-bottom: 5rem;
   font-size: 2.5rem;
-}
-
-.pigment {
-  color: rgb(2, 201, 28);
 }
 
 .project-list {
